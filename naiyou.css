@@ -1,0 +1,40 @@
+.space {
+    padding: 30px;
+}
+.naiyou {
+    padding-left: 25px;
+    padding-right: 550px;
+}
+.mo-do {
+    background-color: rgb(235, 235, 235);
+    color:seagreen;
+    border-radius: 7px;
+    margin-bottom: 10px;
+}
+.ru-ru {
+    background-color: rgb(205, 205, 205);
+    color:rgb(11, 0, 168);
+    border-radius: 7px;
+    margin-bottom: 10px
+}
+.sute-zi {
+    background-color: rgb(175, 175, 175);
+    color: firebrick;
+    border-radius: 7px;
+    margin-bottom: 10px
+}
+.si-nn {
+    background-color: rgb(145, 145, 145);
+    color: indigo;
+    border-radius: 7px;
+    margin-bottom: 10px
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: red;
+}
+ul{
+    padding-left: 25px;
+}
